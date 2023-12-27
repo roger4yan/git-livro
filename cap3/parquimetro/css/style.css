@@ -1,0 +1,37 @@
+img {
+    height: 200px;
+    width: 200px;
+    margin: 3rem;
+    padding: 3rem;
+    float: left;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+h1 {
+    border-bottom-style: inset;
+    margin: 1rem;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+p {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border: none;
+}
+
+
+#btCheck {
+    height: 30px; 
+    width: 200px; 
+    background-color: #3498db; 
+    color: #fff; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+    
